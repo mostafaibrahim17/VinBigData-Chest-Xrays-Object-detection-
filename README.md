@@ -5,5 +5,6 @@ This repository contains the code I used during the VinBigData  Kaggle competiti
 You can find more details here:
 
 https://www.kaggle.com/mostafaibrahim17/yolov5-vinbigdata
+
 https://www.kaggle.com/mostafaibrahim17/yolov5-with-2-class-filter
 
