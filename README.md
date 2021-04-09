@@ -8,3 +8,4 @@ https://www.kaggle.com/mostafaibrahim17/yolov5-vinbigdata
 
 https://www.kaggle.com/mostafaibrahim17/yolov5-with-2-class-filter
 
+https://www.kaggle.com/solosquad1999/vinbigdata-train-efficientnet-2-classes
