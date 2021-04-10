@@ -19,4 +19,6 @@ Dataset:
 
 https://www.kaggle.com/awsaf49/vinbigdata-original-image-dataset
 
+# Overall Architecture:
+
 ![obj](https://user-images.githubusercontent.com/32401731/114216596-6596e080-9967-11eb-98a2-72df6649f7db.jpg)
